@@ -1,2 +1,6 @@
-# MLE-DGR-B2
-Shared GITHUB repository for training of the course ML_E for the students of DG Ruparel Batch 2 
+## Add Your Details
+- Create a file in `students/` as your_name.md
+- Include:
+  - Name
+  - Roll No
+  - Favorite Programming Language
