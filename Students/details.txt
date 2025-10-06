@@ -1,3 +1,4 @@
-| Name        | GitHub Username | Favorite Language |
-|--------------|----------------|--------------------|
-| Kassroom_Jem   | Klassroom-jem    | Python             |
+| Name        | GitHub Username | Favorite Language  |
+|-------------|---------------- |--------------------|
+| Kassroom_Jem| Klassroom-jem   | Python             |
+| Janardana   | Jna             | Sanskrit           | 
