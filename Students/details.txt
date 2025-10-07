@@ -2,3 +2,4 @@
 |-------------|---------------- |--------------------|
 | Kassroom_Jem| Klassroom-jem   | Python             |
 | Janardana   | Jna             | Sanskrit           | 
+| Vedant M.   | Vedant-Manjrekar| JavaScript         |
