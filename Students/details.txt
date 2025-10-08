@@ -2,5 +2,6 @@
 |-------------|---------------- |--------------------|
 | Kassroom_Jem| Klassroom-jem   | Python             |
 | Janardana   | Jna             | Sanskrit           | 
+| Aniruddha   | ani-codes24     | English            |
 | Sakshi      | sakshiot4       | Python             | 
 | Vedant M.   | Vedant-Manjrekar| JavaScript         |
