@@ -3,3 +3,4 @@
 | Kassroom_Jem| Klassroom-jem   | Python             |
 | Janardana   | Jna             | Sanskrit           | 
 | Sakshi      | sakshiot4       | Python             | 
+| Vedant M.   | Vedant-Manjrekar| JavaScript         |
