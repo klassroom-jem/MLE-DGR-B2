@@ -2,3 +2,4 @@
 |-------------|---------------- |--------------------|
 | Kassroom_Jem| Klassroom-jem   | Python             |
 | Janardana   | Jna             | Sanskrit           | 
+| Myst        | myst            | Japanese
