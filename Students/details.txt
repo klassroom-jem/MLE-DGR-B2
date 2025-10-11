@@ -1,5 +1,11 @@
 | Name        | GitHub Username | Favorite Language  |
 |-------------|---------------- |--------------------|
 | Kassroom_Jem| Klassroom-jem   | Python             |
+| Janardana   | Jna             | Sanskrit           |
+|Chandrapraksh|chandraprakash54 | Html               | 
 | Janardana   | Jna             | Sanskrit           | 
 | OM          | Shriman-Crazy   | Streamlit          |
+|Vedashree    |vedashree77      |Python              | 
+| Aniruddha   | ani-codes24     | English            |
+| Sakshi      | sakshiot4       | Python             | 
+| Vedant M.   | Vedant-Manjrekar| JavaScript         |
