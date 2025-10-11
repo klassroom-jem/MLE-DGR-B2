@@ -3,7 +3,6 @@
 | Kassroom_Jem| Klassroom-jem   | Python             |
 | Janardana   | Jna             | Sanskrit           |
 |Chandrapraksh|chandraprakash54 | Html               | 
-| Janardana   | Jna             | Sanskrit           | 
 | shravani    |shravani123B     |python              |
 | Myst        | myst            | Japanese
 | OM          | Shriman-Crazy   | Streamlit          |
