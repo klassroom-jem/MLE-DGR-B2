@@ -4,6 +4,7 @@
 | Janardana   | Jna             | Sanskrit           |
 |Chandrapraksh|chandraprakash54 | Html               | 
 | Janardana   | Jna             | Sanskrit           | 
+| shravani    |shravani123B     |python              |
 | Myst        | myst            | Japanese
 | OM          | Shriman-Crazy   | Streamlit          |
 |Vedashree    |vedashree77      |Python              | 
